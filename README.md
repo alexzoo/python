@@ -1,0 +1,2 @@
+# python
+Repo for trening
