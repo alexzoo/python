@@ -1,0 +1,369 @@
+1498592400516	geckodriver	INFO	Listening on 127.0.0.1:65182
+1498592401755	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498592403829	Marionette	INFO	Listening on port 65207
+1498592403885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498592404190	Marionette	DEBUG	loaded listener.js
+1498592404228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 22:40:04.284 plugin-container[9852:1814942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:40:04.285 plugin-container[9852:1814942] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f33, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:40:04.285 plugin-container[9852:1814942] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498592404535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498592404535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498592404612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592404615	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592404932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592405278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592405412	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405509	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405510	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405554	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405617	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405678	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405679	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592405688	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405712	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405762	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405815	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405816	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592405846	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592406109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592466215	Marionette	INFO	New connections will no longer be accepted
+1498592660084	geckodriver	INFO	Listening on 127.0.0.1:53108
+1498592661101	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498592663087	Marionette	INFO	Listening on port 53133
+1498592663142	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498592663445	Marionette	DEBUG	loaded listener.js
+1498592663477	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 22:44:23.535 plugin-container[9941:1819579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:44:23.536 plugin-container[9941:1819579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9523, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:44:23.536 plugin-container[9941:1819579] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498592663777	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498592663778	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498592663852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592663877	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592664506	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592664599	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664679	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664679	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664740	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664795	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664861	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664862	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/index.php"
+1498592664870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592664922	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592664972	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592665022	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592665023	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592665032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592665049	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592665311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592725402	Marionette	INFO	New connections will no longer be accepted
+1498592939885	geckodriver	INFO	Listening on 127.0.0.1:57817
+1498592940871	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498592942810	Marionette	INFO	Listening on port 57858
+1498592942869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498592943160	Marionette	DEBUG	loaded listener.js
+1498592943196	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 22:49:03.256 plugin-container[9990:1824685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:49:03.256 plugin-container[9990:1824685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9527, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:49:03.256 plugin-container[9990:1824685] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498592943551	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498592943551	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498592943624	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592943627	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592943945	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592944290	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592944387	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944461	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944462	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944489	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944549	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944613	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944613	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944644	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592944898	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592945188	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592945474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498592945551	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945612	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945612	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945623	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945631	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945686	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945746	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945746	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945754	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945764	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945814	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498592945819	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498592945840	Marionette	INFO	New connections will no longer be accepted
+1498593007923	geckodriver	INFO	Listening on 127.0.0.1:59041
+1498593008933	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498593010823	Marionette	INFO	Listening on port 59069
+1498593010911	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498593011155	Marionette	DEBUG	loaded listener.js
+1498593011195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 22:50:11.249 plugin-container[10017:1826483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:50:11.249 plugin-container[10017:1826483] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9527, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:50:11.249 plugin-container[10017:1826483] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498593011256	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498593011256	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498593011314	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593011317	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593011626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593011964	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593012058	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012136	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012136	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012145	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012158	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012225	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012275	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012276	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012312	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593012563	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593012868	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593013159	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593013233	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013286	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013287	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013303	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013357	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013423	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013424	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013433	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013445	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013493	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593013497	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498593013527	Marionette	INFO	New connections will no longer be accepted
+1498593449069	geckodriver	INFO	Listening on 127.0.0.1:49953
+1498593450096	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498593452061	Marionette	INFO	Listening on port 49978
+1498593452116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498593452411	Marionette	DEBUG	loaded listener.js
+1498593452471	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 22:57:32.508 plugin-container[10143:1833163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:57:32.508 plugin-container[10143:1833163] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4747, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 22:57:32.509 plugin-container[10143:1833163] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498593452873	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498593452873	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498593452952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593452954	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453265	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593453593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593453678	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453749	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453749	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453774	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453831	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453885	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453885	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453893	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593453910	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593454455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593454739	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593454807	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454872	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454872	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454882	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454892	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593454952	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455015	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455015	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455023	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455034	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455090	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593455094	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498593455116	Marionette	INFO	New connections will no longer be accepted
+1498593756741	geckodriver	INFO	Listening on 127.0.0.1:55048
+1498593757783	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498593759633	Marionette	INFO	Listening on port 55073
+1498593759690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498593759982	Marionette	DEBUG	loaded listener.js
+1498593760016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 23:02:40.079 plugin-container[10177:1838082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:02:40.080 plugin-container[10177:1838082] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x472f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:02:40.080 plugin-container[10177:1838082] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498593760534	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498593760534	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498593760609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593760612	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593760927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593761261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593761358	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761449	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761450	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761479	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761535	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761586	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761586	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761596	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761612	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593761862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593762154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593762444	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593762520	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762572	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762572	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762591	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762646	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762704	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762705	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762712	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762721	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762766	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593762770	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498593762796	Marionette	INFO	New connections will no longer be accepted
+1498593824738	geckodriver	INFO	Listening on 127.0.0.1:56263
+1498593825779	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498593827755	Marionette	INFO	Listening on port 56288
+1498593827816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498593828116	Marionette	DEBUG	loaded listener.js
+1498593828149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-27 23:03:48.206 plugin-container[10190:1839574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:03:48.207 plugin-container[10190:1839574] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x952b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-27 23:03:48.207 plugin-container[10190:1839574] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498593828220	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498593828220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498593828284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593828287	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593828619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593828946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593829032	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829183	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829184	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829192	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829216	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829275	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829329	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829329	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829338	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829353	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593829607	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593829891	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593830180	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498593830262	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830314	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830314	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830334	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830395	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830460	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830460	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830481	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830536	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498593830540	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498593830583	Marionette	INFO	New connections will no longer be accepted
+1498597570231	geckodriver	INFO	Listening on 127.0.0.1:52055
+1498597571171	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498597573223	Marionette	INFO	Listening on port 52080
+1498597573288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498597573598	Marionette	DEBUG	loaded listener.js
+1498597573656	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-28 00:06:13.699 plugin-container[10651:1892492] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 00:06:13.699 plugin-container[10651:1892492] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x961f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 00:06:13.699 plugin-container[10651:1892492] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498597574196	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498597574196	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498597574274	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597574277	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597574604	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597574932	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597575043	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575121	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575122	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575132	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575162	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575235	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575287	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575287	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575296	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575314	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597575573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597575853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597576136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597576199	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576255	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576255	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576265	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576273	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576337	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576403	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576404	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576412	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576425	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576492	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597576498	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498597576522	Marionette	INFO	New connections will no longer be accepted
+1498597576729	geckodriver	INFO	Listening on 127.0.0.1:52261
+1498597577758	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498597579766	Marionette	INFO	Listening on port 52286
+1498597579865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498597580132	Marionette	DEBUG	loaded listener.js
+1498597580191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-06-28 00:06:20.225 plugin-container[10655:1893143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f5b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 00:06:20.226 plugin-container[10655:1893143] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x481b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 00:06:20.226 plugin-container[10655:1893143] Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498597580233	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498597580233	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498597580343	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597580345	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597580648	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597580971	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597581063	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581142	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581143	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581173	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581238	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581295	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581296	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581319	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597581577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597581866	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597582157	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498597582239	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582299	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582300	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582310	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582317	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582379	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582447	Marionette	DEBUG	Received DOM event "pagehide" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582448	Marionette	DEBUG	Received DOM event "unload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582458	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582474	Marionette	DEBUG	Received DOM event "pageshow" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582528	Marionette	DEBUG	Received DOM event "beforeunload" for "http://alexzoos-macbook-pro.local/addressbook/group.php"
+1498597582532	Marionette	DEBUG	Received DOM event "hashchange" for "http://alexzoos-macbook-pro.local/addressbook/group.php#"
+1498597582576	Marionette	INFO	New connections will no longer be accepted
